@@ -1,0 +1,23 @@
+{
+  "name": "client-guide",
+  "version": "0.0.1",
+  "description": "Algorithmia Node Client Guide Examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahcrowley/algorithmia-example-node.git"
+  },
+  "author": "Noah Crowley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahcrowley/algorithmia-example-node/issues"
+  },
+  "homepage": "https://github.com/noahcrowley/algorithmia-example-node#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10"
+  }
+}
